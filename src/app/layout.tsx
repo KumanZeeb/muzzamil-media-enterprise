@@ -2,7 +2,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Epol Stock',
+  title: 'MUZZAMIL MEDIA ENTERPRISE || STOCK SOSMED TERPERCAYA',
   description: 'Premium Portal — Jual Akun & Gaming Services',
 };
 
